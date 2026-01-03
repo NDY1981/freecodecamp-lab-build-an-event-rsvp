@@ -1,0 +1,41 @@
+#container {
+  margin: 0 auto;
+  width: max-content;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+form {
+  margin: 0 auto;
+  width: max-content;
+}
+
+label {
+  margin-top: 10px;
+}
+
+label,
+input {
+  display: block;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  background-color: inherit;
+  color: inherit;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.field {
+  font-weight: bold;
+}
+
+#response {
+  width: max-content;
+  margin: 0 auto;
+}
